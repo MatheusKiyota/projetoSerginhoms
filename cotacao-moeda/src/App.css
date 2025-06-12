@@ -1,0 +1,11 @@
+.App {
+  text-align: left;
+  background-color: #ffffff;
+  min-height: 100vh;
+
+}
+
+input, button {
+  margin: 0.1rem;
+  padding: 0.1rem;
+}
